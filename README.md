@@ -1,10 +1,8 @@
-# demoPage2
-💙 Demo Page - тестовий проект створений для заповнення портфоліо
+## Demo Project Two 
 
-👤 Цей проект свторений для заповнення портфоліо. <br/>
-❣ Тут я використав: <br/>
-💓 1 SCSS, <br/>
-🐧 2 Методологія БЕМ, <br/>
-🌚 3 Slider swiper
+### About
+##### *Project in which I created a website for my portfolio*
 
-🌏Також все адаптовано  <br/>
+### Technologies and Tools
+![Sass](https://img.shields.io/badge/Sass-ea496f?style=for-the-badge&logo=Sass&logoColor=ffffff)
+![Gulp](https://img.shields.io/badge/Gulp-e74441?style=for-the-badge&logo=Gulp&logoColor=ffffff)
